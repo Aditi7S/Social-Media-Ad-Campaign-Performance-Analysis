@@ -28,8 +28,8 @@ CTR (Click Through Rate)	11.79%
 Unique Users Reached	10K  
 Ad Frequency	34.15  
 
-📈 **Dashboard Features**
-**1. KPI Indicators**  
+📈 **Dashboard Features**  
+**1. KPI Indicators**    
 Fully interactive cards showing key performance measures like Impressions, Clicks, Engagement Rate, CTR, CR, Frequency & Purchases.
 
 **2. Platform-wise Performance**  
@@ -40,19 +40,19 @@ Stories, Images, Carousel, Video ad formats
 **3. Audience Insights**  
 Age-based distribution (15–50 years)  
 Gender breakdown  
-Country-wise impressions using Map visual  
+Country-wise impressions using Map visual    
 
-**4. Time-based Trends  **
+**4. Time-based Trends**    
 Hourly impressions trendline  
 Monthly calendar heatmap for activity analysis  
 
-**5. Ad Type Performance  **
-Detailed table showing:  
+**5. Ad Type Performance**  
+Detailed table showing:    
 Impressions  
 Clicks
 CTR, PR, ER, CR
 
-💡** Business Impact ** 
+💡**Business Impact**
 Identified top-performing platforms and ad types  
 Optimized audience targeting based on age & gender trends  
 Highlighted budget allocation opportunities using engagement & conversion metrics  
