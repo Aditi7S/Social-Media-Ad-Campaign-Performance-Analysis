@@ -2,8 +2,7 @@
 This project presents an end-to-end analysis of Meta (Facebook + Instagram) ad campaigns using Power BI, uncovering insights on impressions, clicks, engagements, purchases, and audience behavior.
 The dashboard provides a real-time view of key advertising KPIs, helping marketers optimize ad spend, improve targeting, and enhance overall campaign performance.  
 
-🚀 **Project Overview  
-**
+🚀 **Project Overview**
 The objective of this project was to analyze 400K+ Meta ad events and measure campaign effectiveness across platforms, ad types, age groups, countries, and audience segments.
 
 The Power BI dashboard includes:
@@ -13,7 +12,7 @@ Hourly and monthly trend analysis
 Ad performance by platform and ad type  
 Dynamic slicers for campaign name, platform & interests  
 
-📌 **Key KPIs Displayed-- **  
+📌 **Key KPIs Displayed**  
 KPI	Value  
 Total Events	400K  
 Total Budget	$2.5M  
@@ -52,7 +51,7 @@ Impressions
 Clicks
 CTR, PR, ER, CR
 
-💡**Business Impact**
+💡**Business Impact**  
 Identified top-performing platforms and ad types  
 Optimized audience targeting based on age & gender trends  
 Highlighted budget allocation opportunities using engagement & conversion metrics  
